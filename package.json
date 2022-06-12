@@ -1,0 +1,19 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawrence856/webpack-template.git"
+  },
+  "author": "Lawrence856",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lawrence856/webpack-template/issues"
+  },
+  "homepage": "https://github.com/Lawrence856/webpack-template#readme"
+}
